@@ -1,1 +1,1 @@
-RunConsoleCommand("say", "KYS GAY FGT")
+RunConsoleCommand("kill")
