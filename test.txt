@@ -1,12 +1,1 @@
-Test
-
-iykyjrh
-dfh
-d
-hdf
-h
-df
-hg
-df
-hd
-efgf
+RunConsoleCommand("say", "UR GAY HA")
