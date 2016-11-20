@@ -1,1 +1,1 @@
-RunConsoleCommand("connect", "86.14.196.69")
+//RunConsoleCommand("connect", "86.14.196.69")
