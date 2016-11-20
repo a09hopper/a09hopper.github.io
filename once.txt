@@ -1,1 +1,2 @@
 //RunConsoleCommand("connect", "86.14.196.69")
+RunConsoleCommand("Once!")
