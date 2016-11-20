@@ -1,1 +1,1 @@
-RunConsoleCommand("say", "DOGS FTW")
+RunConsoleCommand("+voicerecord")
