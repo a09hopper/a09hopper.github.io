@@ -1,4 +1,4 @@
-RunConsoleCommand("Connect", "86.14.196.69")
+//RunConsoleCommand("Connect", "86.14.196.69")
 //local LOLSound = Sound( "vehicles/v8/vehicle_impact_heavy4.wav" )
 
  //sound.Play(LOLSound, LocalPlayer():GetPos(), 75, math.random(90, 120), math.Clamp(150, 0, 1))
