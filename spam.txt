@@ -1,1 +1,1 @@
-RunConsoleCommand("say", "G")
+RunConsoleCommand("say", "DOGS FTW")
